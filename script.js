@@ -152,6 +152,77 @@ const nats2t = {
   ],
 };
 
+const nats3t = {
+  trimestre: 3,
+  matematica: [
+    ["NE", "AV1<br><b>(Não Entregue)</b>", ["C4"], ["H27", "H28", "H29"]],
+  ],
+  linguagens: [
+    [
+      "https://docs.google.com/document/d/1QY_MD3D7zaTeSRA6cwMVGoUklL6TUiVnUN6mgfr8FKk/edit?usp=sharing",
+      "Roteiro - Manifesto",
+      ["?"],
+      ["H3, H24"],
+    ],
+    [
+      "https://docs.google.com/document/d/1rW5ou6zEZDL9qfQv0zVdiPjkPQ2SefWsI7XE2fvDjKo/edit?usp=sharing",
+      "Atividade Portfolio Inglês",
+      ["?"],
+      ["H25"],
+    ],
+    [
+      "NE",
+      "Redação RED1000<br><b>(Não Entregue)</b>",
+      ["?"],
+      ["H22"],
+    ],
+  ],
+  humanas: [
+    [
+      "https://canva.link/a32dkhkv45fvbo9",
+      "Cinema e Totalitarismo",
+      ["?"],
+      ["H10", "H22", "H26"],
+    ],
+    [
+      "https://canva.link/qil2w3rpn6jvg6l",
+      "Dossiê Histórico - WW2",
+      ["?"],
+      ["?"],
+    ],
+    [
+      "https://drive.google.com/file/d/1t-4hIUkempvgJlgy8MD6VhklGC2GJ9Ok/view?usp=sharing",
+      "O Holocausto",
+      ["C2, C4"],
+      ["H10", "H22", "H26", "H27"],
+    ],
+  ],
+  natureza: [
+    [
+      "https://docs.google.com/document/d/1DLKhVvlqYjoZO9R8H-JbMqEvzt6SAO-6u1iAzrfAIiI/edit?usp=sharing",
+      "Ciclos Biogeoquímicos</b>",
+      ["C1", "C2", "C5"],
+      ["H4", "H11", "H24"],
+    ],
+    [
+      "https://drive.google.com/file/d/1MMykxDux4QQ42ZPht1rLX29FUe4r9HRv/view",
+      "Magnetismo na vida real",
+      ["C5"],
+      ["H26", "H27", "H28"],
+    ],
+    [
+      "NE",
+      "Eletricidade e o corpo humano",
+      ["C1", "C2", "C4"],
+      ["H3", "H4", "H12", "H23"],
+    ],
+  ],
+  tecnico: [
+    ["https://github.com/sessentaeseis/RinhaSenai2026FullStack", "BP - Promotora de Créditos", ["?"], ["H2, H3, H4, H5"]],    
+    ["https://drive.google.com/file/d/1Fy64ELH4ApOw5emn-htSPtotyee0Nsym/view?usp=sharing", "IOT: LED a base de limão", ["?"], ["H1, H4, H6"]],
+  ],
+};
+
 function createAt(which, nat) {
   const x = document.createElement("a");
   x.target = "_blank";
@@ -176,3 +247,8 @@ const ats2 = document.getElementById("atividades2");
 
 for (var i = 0; i < nats2t[tema].length; i++)
   ats2.appendChild(createAt(i, nats2t));
+
+const ats3 = document.getElementById("atividades3");
+
+for (var i = 0; i < nats3t[tema].length; i++)
+  ats3.appendChild(createAt(i, nats3t));
