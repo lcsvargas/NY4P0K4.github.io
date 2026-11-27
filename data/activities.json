@@ -1,0 +1,424 @@
+{
+  "profile": {
+    "name": "Lucas Vargas",
+    "course": "3º ano · Ensino Médio",
+    "year": "2026",
+    "instagram": "https://www.instagram.com/lcs.vargas",
+    "about": [
+      "Eu sou o Lucas. Gosto de criar coisas e explorar novas ideias, principalmente na área de música e computação. Toco guitarra nas horas vagas, mas minha maior diversão é ver projetos ganhando vida — desde programação e edição até composição musical.",
+      "Componho músicas de rock e metal e publico minhas composições no Spotify e no SoundCloud. Gosto de experimentar diferentes estilos e sonoridades, transformando ideias em músicas e projetos que possam ganhar vida. Também continuo explorando programação e outras áreas criativas por curiosidade e pelo prazer de aprender e construir coisas novas.",
+      "No fim, meu objetivo é fazer coisas que gosto, que desafiem minha criatividade e que me permitam ver o resultado final funcionando do jeito que imaginei."
+    ],
+    "links": [
+      {
+        "label": "Currículo 2024",
+        "url": "https://docs.google.com/document/d/1MtaoRAs64zghRIRnWEjOSjyhsTki4_bl/edit?usp=sharing&ouid=116964283467735972195&rtpof=true&sd=true"
+      },
+      {
+        "label": "Portfólio 2024",
+        "url": "https://www.canva.com/design/DAGWZqGeETA/zuY3ILm-LjaPr6JR2YL72A/edit?utm_content=DAGWZqGeETA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+      }
+    ],
+    "photo": "Home/media.png"
+  },
+  "subjects": [
+    {
+      "id": "matematica",
+      "name": "Matemática",
+      "description": "Probabilidade, estatística e trigonometria aplicadas em jogos, filmes e problemas do dia a dia.",
+      "teachers": "Luciano, Wagner e Waldinei",
+      "periods": [
+        {
+          "number": 1,
+          "activities": [
+            {
+              "title": "Quebrando a Banca",
+              "description": "Estudo de probabilidade e estatística a partir do filme sobre o grupo de estudantes que usa a matemática para vencer no blackjack.",
+              "url": "https://docs.google.com/document/d/1dzi8q8Jtgf9WkELcb_ktnXoZdaPjRA4t0UIUcXhQVKU/edit?usp=sharing",
+              "image": "Matematica/av11.jpeg",
+              "competencies": ["C5"],
+              "skills": ["H31", "H32"],
+              "status": "available"
+            },
+            {
+              "title": "Jogo: Kassino",
+              "description": "Jogo no estilo cassino, montado no Canva, para explorar probabilidade e chances de forma lúdica.",
+              "url": "https://canva.link/99qkmkowvxmjlld",
+              "image": "Matematica/av21.jpeg",
+              "competencies": ["C5"],
+              "skills": ["H30", "H31"],
+              "status": "available"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "activities": [
+            {
+              "title": "AV1",
+              "description": "Avaliação do 2º trimestre sobre estatística (medidas de tendência central e dispersão). Sem material registrado.",
+              "url": null,
+              "image": null,
+              "competencies": ["C4"],
+              "skills": ["H27", "H28", "H29"],
+              "status": "not-submitted"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "activities": [
+            {
+              "title": "Ciclos Trigonométricos",
+              "description": "Material visual sobre seno, cosseno e tangente: das relações no triângulo retângulo ao ciclo trigonométrico.",
+              "url": "https://canva.link/t09z7bao4pkh8wu",
+              "image": "Matematica/av13.jpeg",
+              "competencies": ["C2"],
+              "skills": ["H5", "H16"],
+              "status": "available"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "linguagens",
+      "name": "Linguagens",
+      "description": "Literatura, língua inglesa e redação: leitura crítica de obras, manifestos e músicas brasileiras.",
+      "teachers": "Natali e Claudia",
+      "periods": [
+        {
+          "number": 1,
+          "activities": [
+            {
+              "title": "A Paixão, Segundo G.H.",
+              "description": "Leitura crítica da obra de Clarice Lispector, explorando a experiência interior e o estranhamento da personagem.",
+              "url": "https://canva.link/0ob1jdygsqsw6u0",
+              "image": "Linguagens/av11.jpeg",
+              "competencies": [],
+              "skills": ["H4", "H22"],
+              "status": "available"
+            },
+            {
+              "title": "Game Literário",
+              "description": "Jogo interativo no Wordwall sobre a 2ª geração do Romantismo brasileiro, feito em grupo para revisar autores e características do período.",
+              "url": "https://wordwall.net/pt/resource/108331158/2ª-geração-do-romantismo-brasileiro",
+              "image": "Linguagens/av21.jpeg",
+              "competencies": [],
+              "skills": ["H15"],
+              "status": "available"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "activities": [
+            {
+              "title": "Roteiro — Manifesto",
+              "description": "Análise do Manifesto Antropófago, de Oswald de Andrade: crítica à dependência cultural, a metáfora da antropofagia e os recursos argumentativos do texto.",
+              "url": "https://docs.google.com/document/d/1QY_MD3D7zaTeSRA6cwMVGoUklL6TUiVnUN6mgfr8FKk/edit?usp=sharing",
+              "image": "Linguagens/av12.jpeg",
+              "competencies": [],
+              "skills": ["H3", "H24"],
+              "status": "available"
+            },
+            {
+              "title": "Atividade Portfólio Inglês",
+              "description": "Atividade de Língua Inglesa do portfólio, com tema ligado à música, reunida em documento.",
+              "url": "https://docs.google.com/document/d/1rW5ou6zEZDL9qfQv0zVdiPjkPQ2SefWsI7XE2fvDjKo/edit?usp=sharing",
+              "image": "Linguagens/av22.jpeg",
+              "competencies": [],
+              "skills": ["H25"],
+              "status": "available"
+            },
+            {
+              "title": "Redação RED1000",
+              "description": "Redação do 2º trimestre na plataforma RED1000. Sem arquivo registrado.",
+              "url": null,
+              "image": null,
+              "competencies": [],
+              "skills": ["H22"],
+              "status": "not-submitted"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "activities": [
+            {
+              "title": "Secos e Molhados - Sangue Latino",
+              "description": "Site próprio sobre a banda Secos & Molhados e a canção Sangue Latino, relacionando a obra ao contexto histórico e político em que nasceu.",
+              "url": "https://sanguelatino.netlify.app/",
+              "image": "Linguagens/av13.jpeg",
+              "competencies": ["C3"],
+              "skills": ["H15"],
+              "status": "available"
+            },
+            {
+              "title": "Redações - IMAGINIE",
+              "description": "Compilado de redações corrigidas na plataforma Imaginie, com devolutiva por competência (C1 a C5) e comparação com a nota média do tema.",
+              "url": "https://drive.google.com/file/d/18W0tC8qBbPDVp5A5mbX3D8-fWv27QRfQ/view?usp=sharing",
+              "image": "Linguagens/av23.jpeg",
+              "competencies": ["C4"],
+              "skills": ["H22"],
+              "status": "available"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "humanas",
+      "name": "Humanas",
+      "description": "História e geopolítica do século XX: revoluções, guerras mundiais, Guerra Fria e o Brasil republicano.",
+      "teachers": "Lucas, Bryan e Marcus",
+      "periods": [
+        {
+          "number": 1,
+          "activities": [
+            {
+              "title": "Apresentação Geopolítica",
+              "description": "Seminário em grupo sobre a Rússia: território, posição geopolítica e influência no cenário internacional.",
+              "url": "https://canva.link/3othh3sfqfxx90z",
+              "image": "Humanas/av11.jpeg",
+              "competencies": ["C1"],
+              "skills": ["H1", "H2", "H3", "H4", "H5"],
+              "status": "available"
+            },
+            {
+              "title": "Neocolonialismo: Raj Britânico",
+              "description": "Apresentação em grupo sobre o domínio britânico na Índia como exemplo de neocolonialismo.",
+              "url": "https://www.canva.com/design/DAHDv1aRlMk/NehFtNc3D8n7L4rDWQKsNQ",
+              "image": "Humanas/av21.jpeg",
+              "competencies": ["C2"],
+              "skills": ["H8", "H10", "H12"],
+              "status": "available"
+            },
+            {
+              "title": "PRAVDA: A Grande Guerra",
+              "description": "Jornal recriado no estilo do Pravda, diário soviético, narrando acontecimentos como a tomada do Palácio de Inverno.",
+              "url": "https://canva.link/cmu56393aa0gbc9",
+              "image": "Humanas/av31.jpeg",
+              "competencies": ["C3"],
+              "skills": ["H15", "H16", "H20"],
+              "status": "available"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "activities": [
+            {
+              "title": "Cinema e Totalitarismo",
+              "description": "Análise de obras do cinema como instrumento de propaganda e de crítica aos regimes totalitários.",
+              "url": "https://canva.link/a32dkhkv45fvbo9",
+              "image": "Humanas/av12.jpeg",
+              "competencies": [],
+              "skills": ["H10", "H22", "H26"],
+              "status": "available"
+            },
+            {
+              "title": "Dossiê Histórico — WW2",
+              "description": "Dossiê sobre a Segunda Guerra Mundial, com foco na Guerra no Pacífico e na Campanha do Norte da África.",
+              "url": "https://canva.link/qil2w3rpn6jvg6l",
+              "image": "Humanas/av22.jpeg",
+              "competencies": [],
+              "skills": [],
+              "status": "available"
+            },
+            {
+              "title": "O Holocausto",
+              "description": "Trabalho sobre o Holocausto, com foco na memória das vítimas e na defesa dos direitos humanos.",
+              "url": "https://drive.google.com/file/d/1t-4hIUkempvgJlgy8MD6VhklGC2GJ9Ok/view?usp=sharing",
+              "image": "Humanas/av32.jpeg",
+              "competencies": ["C2", "C4"],
+              "skills": ["H10", "H22", "H26", "H27"],
+              "status": "available"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "activities": [
+            {
+              "title": "Apresentação - Guerra Fria",
+              "description": "Apresentação sobre a disputa entre Estados Unidos e União Soviética: bipolaridade, corrida armamentista e conflitos indiretos.",
+              "url": "https://docs.google.com/presentation/d/115htQ3KfsTdYEamm_nj30BdIuq8uYStD/edit?usp=sharing&ouid=116964283467735972195&rtpof=true&sd=true",
+              "image": "Humanas/av13.jpeg",
+              "competencies": ["C5", "C6"],
+              "skills": ["H28", "H30", "H32", "H39"],
+              "status": "available"
+            },
+            {
+              "title": "República Liberal - Brasília",
+              "description": "Estudo da República Liberal (1946–1964) com foco na construção de Brasília e no projeto desenvolvimentista.",
+              "url": "https://docs.google.com/document/d/1F8Xz6Sh-gXQ17QO9THd4PrRUE2USqZW0WTKRYRa8dA0/edit?tab=t.0#heading=h.k6xcqsoeitrc",
+              "image": "Humanas/av23.jpeg",
+              "competencies": [],
+              "skills": ["H36", "H39", "H40"],
+              "status": "available"
+            },
+            {
+              "title": "Brasil dos anos '50",
+              "description": "Apresentação sobre o Brasil dos anos 1950: urbanização, industrialização e o cotidiano da época.",
+              "url": "https://docs.google.com/presentation/d/1cYYfJmHGWTpEW56G1dPorwUd8mQkpJdW/edit?usp=sharing&ouid=116964283467735972195&rtpof=true&sd=true",
+              "image": "Humanas/av33.jpeg",
+              "competencies": [],
+              "skills": ["H36", "H39", "H40"],
+              "status": "available"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "natureza",
+      "name": "Natureza",
+      "description": "Química, física e biologia aplicadas: eletricidade, magnetismo, ciclos naturais e indústria.",
+      "teachers": "Romuel, Beux e Tairine",
+      "periods": [
+        {
+          "number": 1,
+          "activities": [
+            {
+              "title": "Meme Evolucionista",
+              "description": "Meme em quadrinhos que usa humor para explicar seleção natural e adaptação. Link ainda não vinculado.",
+              "url": null,
+              "image": "Natureza/av11.jpeg",
+              "competencies": ["C3"],
+              "skills": ["H15", "H18"],
+              "status": "link-pending"
+            },
+            {
+              "title": "Guerras e Conflitos",
+              "description": "Apresentação sobre guerras e conflitos atuais e seus impactos ambientais e tecnológicos.",
+              "url": "https://canva.link/aqp3r6b0yluvr1s",
+              "image": "Natureza/av21.jpeg",
+              "competencies": ["C1", "C2"],
+              "skills": ["H1", "H9", "H11"],
+              "status": "available"
+            },
+            {
+              "title": "Disputa Elétrica",
+              "description": "Trabalho sobre eletricidade e estrutura atômica (cargas e partículas), entregue em documento.",
+              "url": "https://docs.google.com/document/d/1HzSLVOPeMkOP1Y9pMdw6wIFHOChm4IY-gay8iseYlQE/edit?usp=sharing",
+              "image": "Natureza/av31.jpeg",
+              "competencies": ["C1", "C2"],
+              "skills": ["H1", "H7", "H9", "H11", "H12"],
+              "status": "available"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "activities": [
+            {
+              "title": "Fotos Mural",
+              "description": "Registro fotográfico de mural do 2º trimestre. Sem material entregue.",
+              "url": null,
+              "image": null,
+              "competencies": ["C1", "C2"],
+              "skills": ["H1", "H9", "H11"],
+              "status": "not-submitted"
+            },
+            {
+              "title": "Apresentação sobre Estequiometria e Indústria",
+              "description": "Apresentação em grupo sobre estequiometria aplicada à produção de aço e à descarbonização da siderurgia.",
+              "url": "https://canva.link/hn7azqh9jvbds61",
+              "image": "Natureza/av22.jpeg",
+              "competencies": ["C2"],
+              "skills": ["H7", "H9", "H10"],
+              "status": "available"
+            },
+            {
+              "title": "Eletricidade e o Corpo Humano",
+              "description": "Trabalho sobre a eletricidade no corpo humano. Sem material registrado.",
+              "url": null,
+              "image": null,
+              "competencies": ["C1", "C2", "C4"],
+              "skills": ["H3", "H4", "H12", "H23"],
+              "status": "not-submitted"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "activities": [
+            {
+              "title": "Ciclos Biogeoquímicos",
+              "description": "Infográfico sobre o excesso de fertilizantes e o desequilíbrio dos ciclos do nitrogênio e do fósforo, com o caso do Lago de Sobradinho (BA).",
+              "url": "https://drive.google.com/file/d/1Ec9tZlTiZwSRCke3FJrjZOpUwMCa8dE0/view?usp=sharing",
+              "image": "Natureza/av13.jpeg",
+              "competencies": ["C1", "C2", "C5"],
+              "skills": ["H4", "H11", "H24"],
+              "status": "available"
+            },
+            {
+              "title": "Magnetismo na vida real",
+              "description": "Material sobre aplicações do magnetismo no cotidiano, com destaque para o funcionamento dos motores elétricos.",
+              "url": "https://drive.google.com/file/d/1MMykxDux4QQ42ZPht1rLX29FUe4r9HRv/view?usp=sharing",
+              "image": "Natureza/av23.jpeg",
+              "competencies": ["C5"],
+              "skills": ["H26", "H27", "H28"],
+              "status": "available"
+            },
+            {
+              "title": "Óleos Essenciais",
+              "description": "Apresentação sobre óleos essenciais: obtenção, composição química e usos.",
+              "url": "https://canva.link/xm1gho7wdqywzr4",
+              "image": "Natureza/av33.jpeg",
+              "competencies": ["C5"],
+              "skills": ["H12", "H24", "H25"],
+              "status": "available"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tecnico",
+      "name": "Técnico",
+      "teachers": "João Ricardo, Samuel e Willer",
+      "description": "IoT, Banco de Dados e Modelagem de Sistemas",
+      "periods": [
+        {
+          "number": 1,
+          "activities": [
+            {
+              "title": "Canva: Grand Prix",
+              "description": "Lean Canvas de uma solução de segurança para dispositivos vestíveis com IA: problema, solução, proposta de valor, canais, custos e receitas.",
+              "url": "https://canva.link/0u0xn19zejrxmo0",
+              "image": "Tecnico/av11.jpeg",
+              "competencies": [],
+              "skills": [],
+              "status": "available"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "activities": [
+            {
+              "title": "BP — Promotora de Créditos",
+              "description": "Projeto full stack do desafio Promotora de Créditos (Rinha SENAI 2026), com o código publicado no GitHub.",
+              "url": "https://github.com/sessentaeseis/RinhaSenai2026FullStack",
+              "image": "Tecnico/av12.jpeg",
+              "competencies": [],
+              "skills": ["H2", "H3", "H4", "H5"],
+              "status": "available"
+            },
+            {
+              "title": "IoT: LED à Base de Limão",
+              "description": "Experimento de eletrônica e IoT: um limão como bateria para acender um LED, com medições feitas em multímetro.",
+              "url": "https://drive.google.com/file/d/1Fy64ELH4ApOw5emn-htSPtotyee0Nsym/view?usp=sharing",
+              "image": "Tecnico/av22.jpeg",
+              "competencies": [],
+              "skills": ["H1", "H4", "H6"],
+              "status": "available"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
